@@ -1,4 +1,4 @@
-public class ex_4 {
+public class ex_40 {
     public static void main(String[] args) {
         int produsePerMin = 8;
         int produsePerTwentyMin = produsePerMin * 20;

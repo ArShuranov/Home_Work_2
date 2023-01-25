@@ -1,4 +1,4 @@
-public class ex_7 {
+public class ex_70 {
     public static void main(String[] args) {
         float weightLoss = 7000;
         float dietSoft = 250;

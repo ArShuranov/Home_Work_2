@@ -1,4 +1,4 @@
-public class ex_3 {
+public class ex_30 {
     public static void main(String[] args) {
         // Задача про учителей, учеников и дефицитные листы бумаги
         byte ludPavStu = 23;

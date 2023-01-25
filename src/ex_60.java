@@ -1,4 +1,4 @@
-public class ex_6 {
+public class ex_60 {
     public static void main(String[] args) {
         int bananaWeight = 80;
         int milkMl = 105;
