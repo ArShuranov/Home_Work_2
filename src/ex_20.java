@@ -1,4 +1,4 @@
-public class ex_2 {
+public class ex_20 {
     public static void main(String[] args) {
         float a = 27.12F;
         long b = 987_678_965_549L;

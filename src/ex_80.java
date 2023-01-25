@@ -1,4 +1,4 @@
-public class ex_8 {
+public class ex_80 {
     public static void main(String[] args) {
         float factor = 0.1F;
         float mashaGetMonth = 67760F;

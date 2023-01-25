@@ -1,4 +1,4 @@
-public class ex_5 {
+public class ex_50 {
     public static void main(String[] args) {
         int paint = 120;
         int whiteSpend = 2;
